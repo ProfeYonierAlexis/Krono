@@ -1,0 +1,6 @@
+{
+  "name": "Krono",
+  "description": "Aplicación web de gestión del tiempo, bloques horarios y tareas con recordatorios push y sincronización en tiempo real entre múltiples dispositivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
